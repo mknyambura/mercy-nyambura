@@ -1,1 +1,1 @@
-# mercy-nyambura
+# MercyNyambura
